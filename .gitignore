@@ -1,6 +1,11 @@
+#directories
+modules/assets/
+assets
+
+#files
 .apk
 *.apk
-modules/assets/
+
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,jetbrains+all,visualstudiocode,node,react,python
